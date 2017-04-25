@@ -22,7 +22,8 @@ module.exports = function(environment) {
       authDomain: "bustle-eb242.firebaseapp.com",
       databaseURL: "https://bustle-eb242.firebaseio.com",
       storageBucket: "bustle-eb242.appspot.com",
-    }
+    },
+    
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created

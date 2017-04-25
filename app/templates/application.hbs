@@ -1,0 +1,17 @@
+<div class="container">
+  <header class="jumbotron">
+    <div class="alert alert-danger">
+      <h1>The Bustler</h1>
+    </div>
+    <ul class="nav nav-tabs nav-justified">
+      <li role="presentation" class="active"><a href="/">Home</a></li>
+      <li role="presentation"><a href="#">Stories</a></li>
+      <li role="presentation"><a href="#">Contact</a></li>
+    </ul>
+  </header>
+    {{outlet}}
+    <hr>
+    <footer>
+      {{#link-to 'index'}}Home{{/link-to}}
+    </footer>
+</div>
