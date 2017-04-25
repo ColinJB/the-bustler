@@ -1,0 +1,21 @@
+{ "stories": [{
+    "author": "Colin Bloom",
+    "title": "Global Political Atmosphere",
+    "content": "The global political atmosphere today is shaky and uncertain at best.",
+    "images": {
+      "mainImage": "https://glopo.wikispaces.com/file/view/Screen%20Shot%202015-08-28%20at%2011.28.24%20am.png/557631721/590x521/Screen%20Shot%202015-08-28%20at%2011.28.24%20am.png",
+      "secondaryImages": ["http://i2.cdn.cnn.com/cnnnext/dam/assets/161107120239-01-trump-parry-super-169.jpg","http://i2.cdn.cnn.com/cnnnext/dam/assets/140116003943-kim-jong-un-north-korea-profile-dictator-horizontal-large-gallery.jpg"]
+      },
+    "genre": "Politics"
+  }, {
+    "author": "Chris Carr",
+    "title": "What is up with all these IPAs?",
+    "content": "I don't understand why there are so many IPAs.",
+    "images": {
+      "mainImage": "http://www.trbimg.com/img-55b158c5/turbine/ct-food-0729-ranking-session-ipas-20150723",
+      "secondaryImages": ["https://ak.picdn.net/offset/photos/56d0e6ca2d1642c18962d0ee/large_w/offset_328866.jpg","https://assets3.thrillist.com/v1/image/1638087/size/tmg-facebook_social.jpg"]
+      },
+    "genre": "Very Important Beer Article"
+
+  }]
+}
